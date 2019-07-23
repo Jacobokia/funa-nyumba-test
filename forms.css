@@ -1,0 +1,33 @@
+body{
+    background-color: #ffc180;
+}
+
+.signUp{
+    position: absolute;
+    text-align: center;
+    width: 380px;
+    height: 550px;
+    /*border: 10px;*/
+    background-color: #fff;
+    margin: 2% 10% 2% 36%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 30px 10px 0px 10px;
+}
+h2 {
+
+ font-family:  'Helvetica Neue', sans-serif;
+ font-size: 34px;
+ text-transform: uppercase;
+ color: #87613d;
+ margin-bottom: 40px;
+
+}
+
+p{
+font-family: 'calibri', sans-serif;
+font-size: 17px;
+text-transform: uppercase;
+color: #87613d;
+margin-bottom: 30px;
+}
